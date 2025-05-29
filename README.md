@@ -1,7 +1,23 @@
 
-## Project info
+# 🎉 Personalized Greeting Card Generator
+
+A web application that lets users create, preview, and download personalized greeting cards for any occasion. Built using **React**, **Vite**, and **Vanilla CSS/JavaScript**.
+
+## 🚀 Features
+
+- 🎨 Beautiful UI built with HTML, CSS, and JavaScript (React)
+- 📝 Input form for name, custom message, and occasion
+- 💌 Auto-generated greeting card based on user input
+- 📥 Download feature to save the greeting card as an image (or PDF)
+- 🔄 Live preview while typing
+- 📱 Responsive design (mobile/tablet-friendly)
 
 
+## 🧑‍💻 Tech Stack
+
+- **Frontend**: React + Vite
+- **Styling**: CSS (you can also integrate Tailwind or styled-components)
+- **Other Tools**: `html2canvas` or `jsPDF` (optional for download feature)
 
 Follow these steps:
 
@@ -19,27 +35,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
